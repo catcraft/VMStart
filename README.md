@@ -62,9 +62,8 @@ Ensure that only authorized users have access to the `config.ini` file and the P
 
 ### Example Setup
 ```plaintext
-VMStart/
-├── Client/
-│   └── TEMPVM Starten.lnk
+├── Client Device/
+│   └── Start VM.lnk
 ├── Hyper-V Server/
 │   ├── config.ini
 │   ├── Main.py
